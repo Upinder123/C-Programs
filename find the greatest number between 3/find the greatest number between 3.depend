@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555231865 source:e:\books\c\find the greatest number between 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

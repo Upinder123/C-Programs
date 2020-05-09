@@ -1,0 +1,42 @@
+# INCLUDE IS USED TO ADD LIBRARIES (HEADER FILE)
+; IS USED TO END ANY CODE(SHOWS THE END OF LINE)
+C IS CASE SENSITIVE AND USED IN LOWER CASE
+F() THIS IS USED FOR FUNCTION
+	EX printf();
+/* */ ARE CALLED COMMENTS ANYTHING IN THIS ARE IGNORED BY THE COMPILER 
+{ OPEN CURLY BRACES
+} CLOSE CURLY BRACES
+{} CODE BODY IS IN IT
+DATA TYPES - if you want to store a data in a computer you cant store it directly you have to define a data type and memory
+1.) Primary data types
+    char	int	float	double
+2.) secondary data type
+    Array	Pointer		Structure
+
+char   ex a,b,c
+int	ex 1,2,3
+float	ex 1.2,1.3
+double  same as float but byte double
+
+		syntax for variable declare (declaration of variable name )
+	data type	variablename;
+	example	     int x;
+Function 
+	printf     print,output,result
+	scanf    use to read value        
+we show 		
+int------%d
+char-----%c
+string---%s
+float----%f
+  (1.) getch();__________________ used to hold the screen
+  (2.) clrscr();__________________used to clear the screen
+  (3.) scanf();___________________to pick up a value 
+					ex scanf("%d",&a);
+
+/n                new line 
+/b                backspace
+/v                vertical tab
+/t		  hortizontal tab
+/r		  carriago return
+	
